@@ -4,7 +4,7 @@
 
 <!---sort: score, alphabetical--->
 
-| System                                              |Score| Plain Text Source Files [a]   | Open Download for IDE and Simulator [b]  | Extensible IDE [c]          | Linux Support [d]        | Testing Framework [e] | CLI [f]             | Transparent Licensing [g] | Open Docs [h]    | Hardware Agnostic [i]    |
+| System                                              |Score| Plain Text Source Files [a]   | Open Download for IDE and Simulator [b]  | Extensible IDE [c]          | Linux Support [d]        | Testing Framework [e] | CLI [f]             | Transparent pricing [g] | Open Docs [h]    | Hardware Agnostic [i]    |
 | ---------------------                               | --- | ----------------              | -----------------                        | --------------------------- |------------------        | --------------------- | ------------------- | ------------------------- | ---------------- | ------------------------ |
 |[Codesys V3.5](#codesys)                             | 7   |:x:                            |:heavy_check_mark:                        |:heavy_check_mark: :moneybag:|:x: [2]                   |:heavy_check_mark:     |:heavy_check_mark:   |:heavy_check_mark:         |:heavy_check_mark:|:heavy_check_mark: [4]    |
 |[B&R Automation Studio](#br)                         | 6   |:heavy_check_mark:             |:heavy_check_mark:                        |:heavy_check_mark:           |:x:                       |:heavy_check_mark:     |:heavy_check_mark:   |:x:                        |:heavy_check_mark:|:x:                       |
@@ -72,10 +72,10 @@ Without testing frameworks all code needs to be tested manually. The available t
 
 CLI tooling allowing all compilation, build and deployment workflows to be automated. (If no CLI but possible to automate this through SDK/API on the IDE then add a footnote)
 
-## Transparent licensing [g]
+## Transparent pricing [g]
 
 Prices must be publicly available without login or requesting a quote.
-Understanding the licensing of the needed components at a granular and transparent level allows consumers to accurately compare offerings. Transparent licensing also allows to have confidence that the cost can scale alongside with the deployments.
+Understanding the licensing and associated pricing of the needed components at a granular and transparent level allows consumers to accurately compare offerings. Transparent licensing also allows to have confidence that the cost can scale alongside with the deployments.
 
 ## Open Documentation [h]
 
